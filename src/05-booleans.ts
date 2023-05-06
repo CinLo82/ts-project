@@ -12,5 +12,5 @@
     console.log('random', random);
     isNew = random <= 0.5 ? true : false;
     console.log('isNew', isNew);
-
+    
 })();
