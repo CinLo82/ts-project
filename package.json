@@ -19,5 +19,8 @@
   "homepage": "https://github.com/CinLo82/ts-project#readme",
   "devDependencies": {
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0"
   }
 }
